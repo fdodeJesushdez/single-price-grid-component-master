@@ -1,0 +1,25 @@
+.bigcontainer {
+    background-color:lightslategrey;
+  
+}
+
+.joinus {
+    background-color: white;
+    border: 10px;
+}
+
+.container {
+    margin: 100px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 11px;
+    background-color:lightslategrey;
+    color: white;
+    text-align: center;
+}
+
